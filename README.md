@@ -1,2 +1,2 @@
-# Power-Bi-Dashboard
+# Dashboards
 Interactive dashboard built in Microsoft Power BI
